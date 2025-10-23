@@ -330,7 +330,7 @@ def test_intent_router_weather():
 
 ---
 
-## 💼 Why This Project (for Recruiters/Reviewers)
+## 💼 Why This Project 
 
 - Real‑world systems thinking: multimodal pipeline with clear boundaries
 - LLM + external API composition: Gemini reasoning grounded with OpenWeather data
