@@ -47,15 +47,10 @@ Designed with reliability, extensibility, and recruiter‑friendly clarity in mi
 
 ## 🎥 Demo
 
-- Chatbot (Gemini): [Demo GIF or video placeholder]
-- Voice Weather: [Demo GIF or video placeholder]
-- Jarvis Assistant: [Demo GIF or video placeholder]
+- Chatbot (Gemini):"C:\Users\asus\Downloads\first chatbot.mp4"
+- Voice Weather: "C:\Users\asus\Downloads\attached both chatbot.mp4"
+- Jarvis Assistant:"C:\Users\asus\Downloads\jarvis personal assistance.mp4"
 
-Tip: Add short 10–20s clips showcasing:
-- Asking for weather
-- Playing music via voice
-- Opening an app
-- A smart Gemini conversation
 
 ---
 
