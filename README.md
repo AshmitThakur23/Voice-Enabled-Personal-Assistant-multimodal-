@@ -47,9 +47,31 @@ Designed with reliability, extensibility, and recruiter‑friendly clarity in mi
 
 ## 🎥 Demo
 
-- Chatbot (Gemini):"C:\Users\asus\Downloads\first chatbot.mp4"
-- Voice Weather: "C:\Users\asus\Downloads\attached both chatbot.mp4"
-- Jarvis Assistant:"C:\Users\asus\Downloads\jarvis personal assistance.mp4"
+Below are inline video players. If a video doesn’t render inline on GitHub, the direct download links are provided right below each player.
+
+### 1) Gemini Chatbot (Text Q&A)
+<video src="REPLACE_WITH_GEMINI_CHATBOT_VIDEO_PATH.mp4" controls width="720"></video>
+
+[Download the video](REPLACE_WITH_GEMINI_CHATBOT_VIDEO_PATH.mp4)
+
+---
+
+### 2) Voice Weather Assistant (Mic → STT → OpenWeather → TTS)
+<video src="REPLACE_WITH_WEATHER_VOICE_VIDEO_PATH.mp4" controls width="720"></video>
+
+[Download the video](REPLACE_WITH_WEATHER_VOICE_VIDEO_PATH.mp4)
+
+---
+
+### 3) Jarvis Personal Assistant (Play music / Open apps / Fetch info)
+<video src="REPLACE_WITH_JARVIS_ASSISTANT_VIDEO_PATH.mp4" controls width="720"></video>
+
+[Download the video](REPLACE_WITH_JARVIS_ASSISTANT_VIDEO_PATH.mp4)
+
+Notes:
+- If your videos are large, consider placing them under docs/media/videos/ and using Git LFS, or upload to YouTube and link like:
+  [![Jarvis Demo Thumbnail](docs/media/screenshots/jarvis_thumb.png)](https://youtube.com/REPLACE_WITH_VIDEO_ID)
+- Keep each clip short for quick loading (10–30s).
 
 
 ---
