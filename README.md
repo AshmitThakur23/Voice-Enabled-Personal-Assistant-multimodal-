@@ -47,34 +47,26 @@ Designed with reliability, extensibility, and recruiter‑friendly clarity in mi
 
 ## 🎥 Demo
 
-Below are inline video players. If a video doesn’t render inline on GitHub, the direct download links are provided right below each player.
+Note: GitHub sometimes doesn’t play videos inline in README due to HTML sanitization/CSP. If a player doesn’t appear, use the “Download the video” links below each section.
 
-### 1) Gemini Chatbot (Text Q&A)
-<video src="REPLACE_WITH_GEMINI_CHATBOT_VIDEO_PATH.mp4" controls width="720"></video>
+### 1) First Chatbot (Text Q&A)
+<video src="https://github.com/AshmitThakur23/Voice-Enabled-Personal-Assistant-multimodal-/raw/main/first%20chatbot.mp4" controls width="720"></video>
 
-[Download the video](REPLACE_WITH_GEMINI_CHATBOT_VIDEO_PATH.mp4)
-
----
-
-### 2) Voice Weather Assistant (Mic → STT → OpenWeather → TTS)
-<video src="attached both chatbot.mp4" controls width="720"></video>
-
-[Download the video](attached both chatbot.mp4)
+[Download the video](https://github.com/AshmitThakur23/Voice-Enabled-Personal-Assistant-multimodal-/raw/main/first%20chatbot.mp4)
 
 ---
 
-### 3) Jarvis Personal Assistant (Play music / Open apps / Fetch info)
-<video src="REPLACE_WITH_JARVIS_ASSISTANT_VIDEO_PATH.mp4" controls width="720"></video>
+### 2) Both Chatbots (Combined)
+<video src="https://github.com/AshmitThakur23/Voice-Enabled-Personal-Assistant-multimodal-/raw/main/attached%20both%20chatbot.mp4" controls width="720"></video>
 
-[Download the video](REPLACE_WITH_JARVIS_ASSISTANT_VIDEO_PATH.mp4)
-
-Notes:
-- If your videos are large, consider placing them under docs/media/videos/ and using Git LFS, or upload to YouTube and link like:
-  [![Jarvis Demo Thumbnail](docs/media/screenshots/jarvis_thumb.png)](https://youtube.com/REPLACE_WITH_VIDEO_ID)
-- Keep each clip short for quick loading (10–30s).
-
+[Download the video](https://github.com/AshmitThakur23/Voice-Enabled-Personal-Assistant-multimodal-/raw/main/attached%20both%20chatbot.mp4)
 
 ---
+
+### 3) Jarvis Personal Assistance (Play music / Open apps / Fetch info)
+<video src="https://github.com/AshmitThakur23/Voice-Enabled-Personal-Assistant-multimodal-/raw/main/jarvis%20personal%20assistance.mp4" controls width="720"></video>
+
+[Download the video](https://github.com/AshmitThakur23/Voice-Enabled-Personal-Assistant-multimodal-/raw/main/jarvis%20personal%20assistance.mp4)
 
 ## 🧱 Architecture
 
