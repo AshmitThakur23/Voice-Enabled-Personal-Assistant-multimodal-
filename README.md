@@ -57,9 +57,9 @@ Below are inline video players. If a video doesn’t render inline on GitHub, th
 ---
 
 ### 2) Voice Weather Assistant (Mic → STT → OpenWeather → TTS)
-<video src="REPLACE_WITH_WEATHER_VOICE_VIDEO_PATH.mp4" controls width="720"></video>
+<video src="attached both chatbot.mp4" controls width="720"></video>
 
-[Download the video](REPLACE_WITH_WEATHER_VOICE_VIDEO_PATH.mp4)
+[Download the video](attached both chatbot.mp4)
 
 ---
 
